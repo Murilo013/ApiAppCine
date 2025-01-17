@@ -1,0 +1,429 @@
+[
+  {
+    "ContainingType": "CineApi.Controllers.FilmeProgramacaoController",
+    "Method": "PostFilmesAsync",
+    "RelativePath": "adicionarFilme/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.FilmeProgramacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.AssinaturaController",
+    "Method": "CreateAssinatura",
+    "RelativePath": "assinatura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.Assinatura",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.AssinaturaController",
+    "Method": "GetAllSubscriptions",
+    "RelativePath": "assinatura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.AssinaturaController",
+    "Method": "GetById",
+    "RelativePath": "assinatura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.AssinaturaController",
+    "Method": "UpdateSubscriptionAsync",
+    "RelativePath": "assinatura/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.Assinatura",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.AssinaturaController",
+    "Method": "DeleteSubscription",
+    "RelativePath": "assinatura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.FilmeProgramacaoController",
+    "Method": "PatchFilmesAsync",
+    "RelativePath": "atualizarFilme/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.FilmeProgramacao",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.CinemaController",
+    "Method": "CreateCinemaAsync",
+    "RelativePath": "cinema",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.Cinema",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.CinemaController",
+    "Method": "GetAllCinemaAsync",
+    "RelativePath": "cinema",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.CinemaController",
+    "Method": "UpdateCinemaAsnc",
+    "RelativePath": "cinema/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.Cinema",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.CinemaController",
+    "Method": "DeleteCinema",
+    "RelativePath": "cinema/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.CinemaController",
+    "Method": "GetByIdCinemaAsync",
+    "RelativePath": "cinema/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.FilmeProgramacaoController",
+    "Method": "GetProgramacaoById",
+    "RelativePath": "filmesCinema/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.IngressoController",
+    "Method": "PostPedidoAsync",
+    "RelativePath": "ingresso",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.Ingresso",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.IngressoController",
+    "Method": "GetAllAsync",
+    "RelativePath": "ingresso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.IngressoController",
+    "Method": "GetAllAsync",
+    "RelativePath": "ingresso/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.IngressoController",
+    "Method": "DeleteAsync",
+    "RelativePath": "ingresso/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.IngressoController",
+    "Method": "UpdateAsync",
+    "RelativePath": "ingresso/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "CineApi.Models.Ingresso",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.FilmeProgramacaoController",
+    "Method": "DeleteAsync",
+    "RelativePath": "removerFilme/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "SignupAsync",
+    "RelativePath": "user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.ViewModels.UserSignupViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "UpdateUserAsync",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.ViewModels.UserUpdateViewModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "user/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "LoginAsync",
+    "RelativePath": "user/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.ViewModels.UserLoginViewModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CineApi.Controllers.UserController",
+    "Method": "UpdateAssinatura",
+    "RelativePath": "userAssinatura/{idUsuario}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "CineApi.ViewModels.AssinaturaUserUpdateViewModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

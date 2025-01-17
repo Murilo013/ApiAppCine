@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "tajpBnx9Gqa5vPgKaCMMpU6ChLG6bc+lUoA/dmGdIvk=",
+  "Source": "CineApi",
+  "BasePath": "_content/CineApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CineApi\\wwwroot",
+      "Source": "CineApi",
+      "ContentRoot": "C:\\Users\\muril\\OneDrive\\Área de Trabalho\\Cine+\\CineApi\\CineApi\\wwwroot\\",
+      "BasePath": "_content/CineApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
