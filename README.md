@@ -18,5 +18,5 @@ Esta API foi projetada para gerenciar um sistema de cinema, permitindo que admin
 - Banco de Dados: PostgreSQL
 - Autenticação: JWT Bearer
 - Documentação: Swagger/OpenAPI
-- Outras Dependências: EntityFramework, Azure(Hospedagem)
+- Outras Dependências: EntityFramework, ... in working
 
