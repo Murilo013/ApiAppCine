@@ -217,7 +217,7 @@
   },
   {
     "ContainingType": "CineApi.Controllers.IngressoController",
-    "Method": "PostPedidoAsync",
+    "Method": "PostIngressoAsync",
     "RelativePath": "ingresso",
     "HttpMethod": "POST",
     "IsController": true,

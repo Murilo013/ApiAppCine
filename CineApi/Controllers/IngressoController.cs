@@ -65,7 +65,7 @@ namespace CineApi.Controllers
         {
             try
             {
-                var ingressosUsuario = context.Ingressos.Where(i => i.UsuarioId == id).ToListAsync();
+                var ingressosUsuario = await context.Ingressos.Where(i => i.UsuarioId == id).ToListAsync();
 
                 return Ok(ingressosUsuario);
             }
@@ -128,12 +128,12 @@ namespace CineApi.Controllers
                     ingressoExistente.Assentos = model.Assentos;
                 }
 
-                if (model.Total != null && model.Total != 0)
+                if (model.Total != 0)
                 {
                     ingressoExistente.Total = model.Total;
                 }
 
-                if (model.FilmeId != null)
+                if (model.FilmeId != 0)
                 {
                     ingressoExistente.FilmeId = model.FilmeId;
                 }

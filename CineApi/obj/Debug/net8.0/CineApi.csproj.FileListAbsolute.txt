@@ -576,3 +576,4 @@ C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineApi\CineApi\bin\Debug\net8.0
 C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineApi\CineApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineApi\CineApi\obj\Debug\net8.0\staticwebassets\msbuild.CineApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineApi\CineApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\muril\OneDrive\Área de Trabalho\Cine+\CineApi\CineApi\obj\Debug\net8.0\CineApi.sourcelink.json
