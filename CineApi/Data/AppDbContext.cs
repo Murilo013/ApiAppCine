@@ -8,7 +8,6 @@ namespace CineApi.Data
     {
         private readonly IConfiguration _configuration;
 
-        // Injeção de dependência para acessar a configuração
         public AppDbContext(IConfiguration configuration)
         {
             _configuration = configuration;

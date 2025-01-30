@@ -32,7 +32,7 @@ namespace CineApi.Controllers
 
             try
             {
-                var assinatura = await context.Assinaturas.FirstOrDefaultAsync(x => x.Id == 4);
+                var assinatura = await context.Assinaturas.FirstOrDefaultAsync(x => x.Id == 1);
 
                 if (assinatura == null)
                 {
@@ -46,7 +46,7 @@ namespace CineApi.Controllers
                     Senha = Setting.GenerateHash(model.Senha),
                     Imagem = model.Imagem,
                     Assinatura = assinatura, 
-                    Role = "Admin"
+                    Role = "Usuario"
                 };
                 
                 await context.Usuarios.AddAsync(newUser);
