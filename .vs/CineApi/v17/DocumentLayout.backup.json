@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\models\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\models\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\controllers\\ingressocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\controllers\\ingressocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\controllers\\assinaturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\controllers\\assinaturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\controllers\\ingressocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\controllers\\ingressocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\controllers\\filmeprogramacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\controllers\\filmeprogramacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\models\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|solutionrelative:cineapi\\models\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1A5842-AF1E-4789-A4E3-678F10AEFAC6}|CineApi\\CineApi.csproj|c:\\users\\muril\\onedrive\\\u00E1rea de trabalho\\cine\u002B\\cineapi\\cineapi\\models\\assinatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,31 +90,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Program.cs",
-              "RelativeDocumentMoniker": "CineApi\\Program.cs",
-              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Program.cs",
-              "RelativeToolTip": "CineApi\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CineApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CineApi\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T15:38:11.266Z"
+              "WhenOpened": "2025-02-04T18:05:04.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "CineApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "CineApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:55:47.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Setting.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Setting.cs",
               "RelativeDocumentMoniker": "CineApi\\Setting.cs",
@@ -122,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\appsettings.json",
               "RelativeDocumentMoniker": "CineApi\\appsettings.json",
@@ -134,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AssinaturaController.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\AssinaturaController.cs",
               "RelativeDocumentMoniker": "CineApi\\Controllers\\AssinaturaController.cs",
@@ -146,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "CineApi\\Models\\User.cs",
@@ -158,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CinemaController.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "CineApi\\Controllers\\CinemaController.cs",
@@ -170,16 +163,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CineApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "CineApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAcwEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T14:56:59.188Z",
+              "WhenOpened": "2024-11-02T14:56:59.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\Ingresso.cs",
+              "RelativeDocumentMoniker": "CineApi\\Models\\Ingresso.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\Ingresso.cs",
+              "RelativeToolTip": "CineApi\\Models\\Ingresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T16:24:34.319Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngressoController.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\IngressoController.cs",
+              "RelativeDocumentMoniker": "CineApi\\Controllers\\IngressoController.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\IngressoController.cs",
+              "RelativeToolTip": "CineApi\\Controllers\\IngressoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:14:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CineApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CineApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:55:47.941Z"
             },
             {
               "$type": "Bookmark",
@@ -187,7 +217,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Program.cs",
+              "RelativeDocumentMoniker": "CineApi\\Program.cs",
+              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Program.cs",
+              "RelativeToolTip": "CineApi\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T15:38:11.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "CineApi\\Properties\\launchSettings.json",
@@ -199,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Cinema.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\Cinema.cs",
               "RelativeDocumentMoniker": "CineApi\\Models\\Cinema.cs",
@@ -211,19 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IngressoController.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\IngressoController.cs",
-              "RelativeDocumentMoniker": "CineApi\\Controllers\\IngressoController.cs",
-              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\IngressoController.cs",
-              "RelativeToolTip": "CineApi\\Controllers\\IngressoController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAD4v4cAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T15:14:38.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Assinatura.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\Assinatura.cs",
               "RelativeDocumentMoniker": "CineApi\\Models\\Assinatura.cs",
@@ -235,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "FilmeProgramacaoController.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Controllers\\FilmeProgramacaoController.cs",
               "RelativeDocumentMoniker": "CineApi\\Controllers\\FilmeProgramacaoController.cs",
@@ -247,19 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Ingresso.cs",
-              "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\Ingresso.cs",
-              "RelativeDocumentMoniker": "CineApi\\Models\\Ingresso.cs",
-              "ToolTip": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Models\\Ingresso.cs",
-              "RelativeToolTip": "CineApi\\Models\\Ingresso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T16:24:34.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\ViewModels\\UserViewModel.cs",
               "RelativeDocumentMoniker": "CineApi\\ViewModels\\UserViewModel.cs",
@@ -271,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AssinaturaViewModel.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\ViewModels\\AssinaturaViewModel.cs",
               "RelativeDocumentMoniker": "CineApi\\ViewModels\\AssinaturaViewModel.cs",
@@ -283,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "CineApi\\Services\\TokenService.cs",
@@ -295,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CineApi.csproj",
               "DocumentMoniker": "C:\\Users\\muril\\OneDrive\\\u00C1rea de Trabalho\\Cine\u002B\\CineApi\\CineApi\\CineApi.csproj",
               "RelativeDocumentMoniker": "CineApi\\CineApi.csproj",

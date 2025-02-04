@@ -5,8 +5,10 @@
         public int Id { get; set; }
         public int UsuarioId { get; set; }
 
-        public int CinemaId { get; set; }
-        public int FilmeId { get; set; }
+        public string CinemaNome { get; set; }
+        public string FilmeNome { get; set; }
+        public string FilmeData { get; set; }
+        public string Sala {  get; set; } 
         public string Assentos { get; set; }
         public decimal Total {  get; set; }
     }

@@ -833,13 +833,21 @@
             "type": "integer",
             "format": "int32"
           },
-          "cinemaId": {
-            "type": "integer",
-            "format": "int32"
+          "cinemaNome": {
+            "type": "string",
+            "nullable": true
           },
-          "filmeId": {
-            "type": "integer",
-            "format": "int32"
+          "filmeNome": {
+            "type": "string",
+            "nullable": true
+          },
+          "filmeData": {
+            "type": "string",
+            "nullable": true
+          },
+          "sala": {
+            "type": "string",
+            "nullable": true
           },
           "assentos": {
             "type": "string",

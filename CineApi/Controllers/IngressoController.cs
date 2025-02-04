@@ -25,8 +25,10 @@ namespace CineApi.Controllers
                 var newIngresso = new Ingresso
                 {
                     UsuarioId = model.UsuarioId,
-                    FilmeId = model.FilmeId,
-                    CinemaId = model.CinemaId,
+                    FilmeNome = model.FilmeNome,
+                    CinemaNome = model.CinemaNome,
+                    FilmeData = model.FilmeData,
+                    Sala = model.Sala,
                     Assentos = model.Assentos,
                     Total = model.Total
                 };
@@ -34,7 +36,7 @@ namespace CineApi.Controllers
                 await context.Ingressos.AddAsync(newIngresso);
                 await context.SaveChangesAsync();
 
-                return Ok("Sucesso!");
+                return Ok(newIngresso);
             }
             catch
             {
@@ -103,24 +105,18 @@ namespace CineApi.Controllers
         {
             try
             {
-
                 var ingressoExistente = await context.Ingressos.FindAsync(id);
                 if (ingressoExistente == null)
                 {
                     return NotFound(new { message = "Ingresso não encontrado." });
                 }
 
-                var filmeExistente = await context.Programacoes.FindAsync(model.FilmeId);
-                if (filmeExistente == null)
-                {
-                    return BadRequest(new { message = "Filme não existe na programação." });
-                }
-
-                var cinemaTemFilme = await context.Programacoes.AnyAsync(p => p.Id == model.FilmeId && p.CinemaId == model.CinemaId);
+                var cinemaTemFilme = await context.Programacoes
+                    .AnyAsync(p => p.FilmeNome == model.FilmeNome);
 
                 if (!cinemaTemFilme)
                 {
-                    return BadRequest(new { message = "Filme não pertence ao cinema informado." });
+                    return BadRequest(new { message = "Filme não pertence ao cinema informado ou não existe na programação." });
                 }
 
                 if (!string.IsNullOrEmpty(model.Assentos))
@@ -133,9 +129,10 @@ namespace CineApi.Controllers
                     ingressoExistente.Total = model.Total;
                 }
 
-                if (model.FilmeId != 0)
+                // Atualiza o nome do filme somente se o filme já existir na programação
+                if (model.FilmeNome != null && cinemaTemFilme)
                 {
-                    ingressoExistente.FilmeId = model.FilmeId;
+                    ingressoExistente.FilmeNome = model.FilmeNome;
                 }
 
                 await context.SaveChangesAsync();
@@ -148,5 +145,6 @@ namespace CineApi.Controllers
             }
         }
 
-    }   
+
+    }
 }
