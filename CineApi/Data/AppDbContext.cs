@@ -21,7 +21,8 @@ namespace CineApi.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql(_configuration.GetConnectionString("DefaultConnection"));
+            var connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION_STRING") ?? "Connection string não configurada";
+            optionsBuilder.UseNpgsql(connectionString);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

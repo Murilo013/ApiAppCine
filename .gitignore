@@ -1,0 +1,27 @@
+# Diretórios de saída
+bin/
+obj/
+
+# Arquivos de configuração locais
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Pacotes do NuGet
+*.nupkg
+/packages
+/ProjectName/packages
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# Configurações específicas do sistema operacional
+*.DS_Store
+Thumbs.db
+ehthumbs.db
